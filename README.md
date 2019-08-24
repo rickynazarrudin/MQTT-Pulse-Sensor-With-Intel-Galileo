@@ -1,1 +1,1 @@
-# MQTT-Pulse-Sensor-With-Intel-Galileo
+# MQTT Pulse Sensor With Intel Galileo
